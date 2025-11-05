@@ -90,7 +90,7 @@ See the training notebooks for details on model training:
 
 ## Data Sources
 
-- CYP data: Veith et al. dataset and Carbonmangels dataset
+- CYP data: Wang, N.N., Wang, X.G., Xiong, G.L., Yang, Z.Y., Lu, A.P., Chen, X., Liu, S., Hou, T.J. and Cao, D.S., 2022. Machine learning to predict metabolic drug interactions related to cytochrome P450 isozymes. Journal of Cheminformatics, 14(1), p.23.
 - PXR data: ChEMBL EC50 values
 
 ## File Structure
