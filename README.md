@@ -29,12 +29,6 @@ cd admet_baselines
 pip install -r requirements.txt
 ```
 
-Note: RDKit installation may require additional setup. On macOS with Homebrew:
-```bash
-brew install rdkit
-pip install rdkit-pypi
-```
-
 ## Quick Start
 
 ### CYP Classification
