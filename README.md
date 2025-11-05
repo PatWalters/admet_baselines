@@ -103,15 +103,15 @@ See the training notebooks for details on model training:
 
 ```
 admet_baselines/
-??? cyp_classifier.py      # CYP classification models
-??? pxr_regressor.py       # PXR regression model
-??? CYP_classifier.pkl     # Pre-trained CYP models
-??? PXR_regressor.pkl      # Pre-trained PXR model
-??? data/                  # Training data files
-??? train_cyp_classifier.ipynb
-??? train_pxr_regressor.ipynb
-??? demo_models.ipynb      # Usage examples
-??? requirements.txt        # Python dependencies
+cyp_classifier.py           # CYP classification models
+pxr_regressor.py            # PXR regression model
+CYP_classifier.pkl          # Pre-trained CYP models
+PXR_regressor.pkl           # Pre-trained PXR model
+data/                       # Training data files
+train_cyp_classifier.ipynb  # Training the CYP models
+train_pxr_regressor.ipynb   # Training the PXR model
+demo_models.ipynb           # Usage examples
+requirements.txt            # Python dependencies
 ```
 
 ## API Reference
@@ -139,7 +139,7 @@ class PXRRegressor:
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - numpy
 - scikit-learn
 - lightgbm
@@ -151,13 +151,5 @@ class PXRRegressor:
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-[Add citation information]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
