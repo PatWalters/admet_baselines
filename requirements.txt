@@ -1,0 +1,9 @@
+numpy>=1.20.0
+scikit-learn>=1.0.0
+lightgbm>=3.0.0
+rdkit-pypi>=2022.0.0
+useful-rdkit-utils
+pandas>=1.3.0
+seaborn>=0.11.0
+matplotlib>=3.4.0
+tdc>=0.4.0
